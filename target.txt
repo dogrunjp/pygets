@@ -1,0 +1,3 @@
+site,wd,file
+ftp.ddbj.nig.ac.jp,ddbj_database/dra/fastq/ERA022/ERA022994/ERX011228,ERR030899.fastq.bz2
+ftp.ddbj.nig.ac.jp,ddbj_database/dra/fastq/ERA022/ERA022994/ERX011186,ERR030890.fastq.bz2

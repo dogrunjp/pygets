@@ -2,8 +2,7 @@ import argparse
 from ftplib import FTP
 import csv
 
-# LOCAL_FILE_PATH = "/home"
-LOCAL_FILE_PATH = "/Users/oec/Documents/Icebox/data"
+LOCAL_FILE_PATH = "/home"
 
 
 def ftp_handler():
